@@ -1,6 +1,6 @@
 # Terraform-Azure-vWAN
 
-This is a demo setup of the Azure vWAN service I use for demo purposes.
+This is a demo setup of the Azure vWAN service I use for demo purposes. This topology has been updated to suppor AzureRM priovider version 3.x and latest service changes in Azure
 
 ## Topology
 ![Topology](Topology.svg "Topology")
